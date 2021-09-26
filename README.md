@@ -33,3 +33,9 @@ Example request:
 ```
 curl localhost:8080/predict?&address=Yonge-Dundas%20Square%2C%20Dundas%20Street%20East%2C%20Торонто%2C%20Онтарио%2C%20Канада&volume=10&date=2021-09-26T13%3A30%3A42.933Z
 ```
+
+### Links
+
+[Frontend](https://github.com/k806house/HachZurich)
+
+[RnD](https://github.com/k806house/truck-track-ml-rnd)
